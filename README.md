@@ -1,4 +1,4 @@
-# Hi, I’m Mohammed Barre! 👋
+# Hi, I’m Mohamed-Amin Ibrahim! 👋
 
 🎓 **Computer Science Graduate**  
 💻 **Front-End Developer** | JavaScript • HTML • CSS • Python • Java  
